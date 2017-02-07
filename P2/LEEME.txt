@@ -1,0 +1,18 @@
+INFORMÁTICA GRÁFICA
+GRADO EN INGENIERÍA INFORMÁTICA
+GRUPO C1
+ 
+LAURA TIRADO LÓPEZ
+PRACTICA 2
+
+INSTRUCCIONES DE USO:
+
+Tecla c: visualizar el cubo
+Tecla t: visualizar el tetraedro
+Tecla f: visualizar un objeto a partir de la lectura de un archivo PLY
+Tecla r: visualizar un objeto de revolución a partir de la lectura de un archivo PLY
+Tecla 1: visualizar el objeto en modo puntos
+Tecla 2: visualizar el objeto en modo alambres
+Tecla 3: visualizar el objeto en modo sólido
+Tecla 4: visualizar el objeto en modo ajedrez 
+Tecla 5: visualizar el objeto en modo puntos, alambres y sólido simultáneo
