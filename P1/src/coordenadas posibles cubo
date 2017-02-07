@@ -1,0 +1,43 @@
+	//Introducimos los vértices
+	//V0
+	ver.coordenadas[0] = 0;
+	ver.coordenadas[1] = 0;
+	ver.coordenadas[2] = -size;
+	vertices.push_back(ver);
+
+	//V1
+	ver.coordenadas[0] = size;
+	ver.coordenadas[1] = 0;
+	ver.coordenadas[2] = -size;
+	vertices.push_back(ver);
+
+	//V2
+	ver.coordenadas[0] = 0;
+	ver.coordenadas[1] = size;
+	ver.coordenadas[2] = -size;
+	vertices.push_back(ver);
+	//V3
+	ver.coordenadas[0] = size;
+	ver.coordenadas[1] = size;
+	ver.coordenadas[2] = -size;
+	vertices.push_back(ver);
+	//V4
+	ver.coordenadas[0] = 0;
+	ver.coordenadas[1] = 0;
+	ver.coordenadas[2] = 0;
+	vertices.push_back(ver);
+	//V5
+	ver.coordenadas[0] = size;
+	ver.coordenadas[1] = 0;
+	ver.coordenadas[2] = 0;
+	vertices.push_back(ver);
+	//V6
+	ver.coordenadas[0] = 0;
+	ver.coordenadas[1] = size;
+	ver.coordenadas[2] = 0;
+	vertices.push_back(ver);
+	//V7
+	ver.coordenadas[0] = size;
+	ver.coordenadas[1] = size;
+	ver.coordenadas[2] = 0;
+	vertices.push_back(ver);
