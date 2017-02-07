@@ -1,0 +1,63 @@
+INFORMÁTICA GRÁFICA
+GRADO EN INGENIERÍA INFORMÁTICA
+GRUPO C1
+ 
+LAURA TIRADO LÓPEZ
+PRACTICA 5
+
+INSTRUCCIONES DE USO:
+
+Ejecutar ./bin/p5
+
+Tecla 1: Modo práctica 1
+Tecla 2: Modo pŕactica 2
+Tecla 3: Modo práctica 3
+Tecla 4: Modo práctica 4
+Tecla 5: Modo práctica 5
+Tecla p: visualizar en modo puntos
+Tecla l: visualizar en modo alambres
+Tecla s: visualizar en modo sólido
+Tecla a: visualizar en modo ajedrez
+Tecla c: visualizar modo puntos, alambre y sólido a la vez
+
+Teclas de modo práctica 1
+Tecla C: visualizar el cubo
+Tecla T: visualizar el tetraedro
+
+Teclas de modo práctica 2
+Tecla P: visualizar un objeto a partir de la lectura de un archivo PLY
+Tecla R: visualizar un objeto de revolución a partir de la lectura de un archivo PLY
+
+Teclas de modo práctica 3
+Tecla S: visualizar el objeto jerárquico (Sonic)
+Tecla Z/z: levantar/bajar brazo derecho de Sonic
+Tecla X/x: levantar/bajar brazo izquierdo de Sonic
+Tecla V/v: levantar/bajar pierna derecha de Sonic
+Tecla B/b: levantar/bajar pierna izquierda de Sonic
+Tecla N/n: levantar/bajar rodilla derecha de Sonic
+Tecla M/m: levantar/bajar rodilla izquierda de Sonic
+Tecla K/k: girar cabeza de Sonic derecha/izquierda 
+Tecla L/l: levantar/bajar cabeza de Sonic
+Tecla H/h: lanzar/recuperar anillo izquierdo
+Tecla J/j: lanzar/recuperar anillo derecho
+
+Teclas de modo práctica 4
+Tecla p/P: visualizar escena de la práctica 4
+Tecla a/A: aumentar parámetro alfa de la luz direccional
+Tecla d/D: disminuir el parámetro alfa de la luz direccional
+Tecla w/W: aumentar el parámetro beta de la luz direccional
+Tecla s/S: disminuir el parmámetro beta de la luz direccional
+Tecla z/Z: apagar/encender la luz posicional
+Tecla x/X: apagar/encender la luz direccional
+
+Teclas de modo práctica 5
+Tecla C: visualizar escena de la práctica 5
+Tecla F1: activa la primera cámara (ortogonal)
+Tecla F2: activa la segunda cámara (perspectiva)
+Tecla F3: activa la tercera cámara (perspectiva)
+Teclas A/W/S/D (may o min): mover la cámara activa por la escena
+Botón derecho ratón (pulsado): girar la cámara
+Botón izquierdo ratón (clic): seleccionar objeto
+Botón izquierdo ratón (pulsado): modo EXAMINAR. Mover la cámara alrededor del objeto seleccionado
+Teclas W/S (may o min): acercar/alejar la cámara activa en el modo EXAMINAR
+
