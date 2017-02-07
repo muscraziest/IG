@@ -1,0 +1,31 @@
+INFORMÁTICA GRÁFICA
+GRADO EN INGENIERÍA INFORMÁTICA
+GRUPO C1
+ 
+LAURA TIRADO LÓPEZ
+PRACTICA 3
+
+INSTRUCCIONES DE USO:
+
+Ejecutar ./bin/p3
+
+Tecla c: visualizar el cubo
+Tecla t: visualizar el tetraedro
+Tecla f: visualizar un objeto a partir de la lectura de un archivo PLY
+Tecla r: visualizar un objeto de revolución a partir de la lectura de un archivo PLY
+Tecla 1: visualizar el objeto en modo puntos
+Tecla 2: visualizar el objeto en modo alambres
+Tecla 3: visualizar el objeto en modo sólido
+Tecla 4: visualizar el objeto en modo ajedrez 
+Tecla 5: visualizar el objeto en modo puntos, alambres y sólido simultáneo
+Tecla S: visualizar el objeto jerárquico (Sonic)
+Tecla Z/z: levantar/bajar brazo derecho de Sonic
+Tecla X/x: levantar/bajar brazo izquierdo de Sonic
+Tecla V/v: levantar/bajar pierna derecha de Sonic
+Tecla B/b: levantar/bajar pierna izquierda de Sonic
+Tecla N/n: levantar/bajar rodilla derecha de Sonic
+Tecla M/m: levantar/bajar rodilla izquierda de Sonic
+Tecla K/k: girar cabeza de Sonic derecha/izquierda 
+Tecla L/l: levantar/bajar cabeza de Sonic
+Tecla H/h: lanzar/recuperar anillo izquierdo
+Tecla J/j: lanzar/recuperar anillo derecho
